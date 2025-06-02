@@ -1,0 +1,1 @@
+Failed to launch CMake executable '\usr\bin\cmake': Connection refused: no further information Configure Disable profile
